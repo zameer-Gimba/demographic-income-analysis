@@ -24,7 +24,7 @@ Place the dataset in `data/raw/` as `adult_data.csv` and run:
 ```bash
 python src/analysis.py
 
-## Questions Answered
+**## Questions Answered**
 - Distribution of races
 - Average age of men
 - Percentage with Bachelor's degrees
