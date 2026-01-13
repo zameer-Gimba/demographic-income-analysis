@@ -1,1 +1,2 @@
-
+This project use a dataset extracted from the 1994 U.S. Census database.
+he dataset extracted from the 1994 U.S. Census database, often called the "Adult Income Census" dataset, contains anonymized demographic and employment information (like age, education, work class, capital gains/losses, native country) for individuals to predict if their annual income exceeds $50,000. Curated by Barry Becker and Ronny Kohavi from the UCI Machine Learning Repository, it's widely used for data pre-processing and machine learning practice, featuring categorical and continuous variables, with tasks involving feature engineering and handling missing values for classification. 
