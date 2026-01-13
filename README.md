@@ -23,3 +23,14 @@ Place the dataset in `data/raw/` as `adult_data.csv` and run:
 
 ```bash
 python src/analysis.py
+
+## Questions Answered
+- Distribution of races
+- Average age of men
+- Percentage with Bachelor's degrees
+- Percentage of people with advanced education earning >50K
+- Percentage of people without advanced education earning >50K
+- Minimum hours worked per week
+- Percentage of minimum-hour workers earning >50K
+- Country with the highest percentage of >50K earners
+- Most popular occupation for those earning >50K in India
