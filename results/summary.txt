@@ -1,0 +1,24 @@
+Demographic Income Analysis – Summary of Findings
+
+1. Race Counts:
+   - White: XXX
+   - Black: XXX
+   - Asian-Pac-Islander: XXX
+   - Amer-Indian-Eskimo: XXX
+   - Other: XXX
+
+2. Average Age of Men: XX.X years
+
+3. Percentage with Bachelor's Degrees: XX.X%
+
+4. Percentage with Advanced Education (Bachelors, Masters, Doctorate) earning >50K: XX.X%
+
+5. Percentage without Advanced Education earning >50K: XX.X%
+
+6. Minimum Hours Worked per Week: XX hours
+
+7. Percentage of Minimum-Hour Workers earning >50K: XX.X%
+
+8. Country with Highest Percentage of >50K Earners: <Country Name> (XX.X%)
+
+9. Most Popular Occupation for those earning >50K in India: <Occupation Name>
