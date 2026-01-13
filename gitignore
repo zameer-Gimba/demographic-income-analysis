@@ -1,0 +1,10 @@
+# Byte-compiled / cache files
+__pycache__/
+*.pyc
+
+# Data files
+data/raw/*.csv
+
+# Environment / system files
+.env
+.DS_Store
